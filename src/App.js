@@ -25,7 +25,6 @@ class App extends React.Component{
             </div>
            <div className="sidebar">
              Cart Items
-
            </div>
 
           </div>
